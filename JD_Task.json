@@ -1,5 +1,5 @@
 {
-    "name":"Xining JD_Task",
+    "name":"inhejohn JD_Task",
     "description":"https://raw.githubusercontent.com/inhejohn/QuantumultX-Script/main/JD_Task.json",
     "task":[ 
 "0 9 * * * https://raw.githubusercontent.com/inhejohn/QuantumultX-Script/main/Task/JD/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
